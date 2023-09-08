@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 ↳ I am a Software Engineer with a bachelor's degree in Mechatronics Engineering<br>
 who has embarked on an exciting journey in <b>Front-end development</b>.
