@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm passionate front-end engineer always eager to learn and experiment
 <!--
 **pedro4r/pedro4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
