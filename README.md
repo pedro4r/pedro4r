@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a Software Engineer with a bachelor's degree in Mechatronics Engineering who has embarked on an exciting journey in Front-end development.
+I am a Software Engineer with a bachelor's degree in Mechatronics Engineering<br>
+who has embarked on an exciting journey in Front-end development.
+
 <!--
 **pedro4r/pedro4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
