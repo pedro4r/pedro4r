@@ -3,6 +3,8 @@
 I'm a Software Engineer with a bachelor's degree in Mechatronics Engineering 🤖<br>
 who has embarked on an exciting journey in <b>Front-End development</b>.
 
+Live long and prosper 🖖🏻
+
 ## Stacks
 ![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mysql,next,planetscale)
           
