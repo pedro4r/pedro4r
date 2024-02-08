@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a Software Engineer with a bachelor's degree in Mechatronics Engineering 🤖 Specialize in full-stack development, focusing on domain-driven design, clean architecture, and test-driven development for web applications using React and Node. Continuously expanding my knowledge, I am eager to delve into new technologies and further refine my skills.
+I'm a Software Engineer with a bachelor's degree in Mechatronics Engineering specialize in full-stack development, focusing on domain-driven design, clean architecture, and test-driven development for web applications using React and Node. Continuously expanding my knowledge, I am eager to delve into new technologies and further refine my skills.
 
 ## Stacks
 ![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,next,nestjs,prisma,mysql,postgres,aws)
