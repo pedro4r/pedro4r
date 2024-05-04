@@ -3,7 +3,7 @@
 I'm a Software Engineer with a bachelor's degree in Mechatronics Engineering specialize in full-stack development, focusing on domain-driven design, clean architecture, and test-driven development for web applications using React and Node. Continuously expanding my knowledge, I am eager to delve into new technologies and further refine my skills.
 
 ## Stacks
-![My Skills](https://skillicons.dev/icons?i=ts,python,react,nodejs,next,nestjs,docker,prisma,mysql,postgres,aws)
+![My Skills](https://skillicons.dev/icons?i=ts,python,react,nodejs,next,nestjs,docker,terraform,prisma,mysql,postgres,aws)
           
           
 ## Find me here
